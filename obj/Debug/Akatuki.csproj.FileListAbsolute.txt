@@ -1,0 +1,14 @@
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\bin\Debug\Akatuki.exe.config
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\bin\Debug\Akatuki.exe
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\bin\Debug\Akatuki.pdb
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.csprojResolveAssemblyReference.cache
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\MainWindow.g.cs
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\App.g.cs
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki_MarkupCompile.cache
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki_MarkupCompile.lref
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\MainWindow.baml
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.g.resources
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.Properties.Resources.resources
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.csproj.GenerateResource.Cache
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.exe
+c:\users\rays\documents\visual studio 2015\Projects\Akatuki\Akatuki\obj\Debug\Akatuki.pdb
